@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">The Game Of Life</string>
+    <string name="new_game">New game</string>
+    <string name="next_round">Next round</string>
+    <string name="score_label">Score:</string>
+    <string name="round_label">Round:</string>
+    <string name="dead_label">dead</string>
+    <string name="live_label">live</string>
+</resources>
