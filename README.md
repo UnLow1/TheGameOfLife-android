@@ -2,7 +2,9 @@
 The Game Of Life for Android devices. Based on https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
 
 ## Installation
-Import project and run it in Android Studio.
+* Download and install on your device TheGameOfLife.apk  
+OR
+* Import project and run it in Android Studio
 
 ## Rules:
 Any cell could be live - green or dead - red.
